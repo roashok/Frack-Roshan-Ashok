@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{F07B5283-E336-C947-AB79-F39C0E77286F}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Maintenance.cs">
+    <Files>
+      <File FileName="Assets/Scripts/EventMaintenance.cs" Line="208" Column="48" />
+      <File FileName="Assets/Scripts/Maintenance.cs" Line="18" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
