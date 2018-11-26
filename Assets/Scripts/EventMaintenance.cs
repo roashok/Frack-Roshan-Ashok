@@ -25,8 +25,10 @@ public class EventMaintenance
                 int noofoptions = int.Parse(values[1]);
                 int factor = int.Parse(values[2]);
                 string desc = values[3];
+                string type = values[4];
                 LongEvent Event = new LongEvent(EventID, desc, noofoptions, factor);
                 long_events.Add(Event);
+ 
             }
         }
         using (var reader = new StreamReader(@"Assets/Scripts/testLongEventsoptions.tsv"))
@@ -49,18 +51,15 @@ public class EventMaintenance
                 double chance = double.Parse(values[9]);
                 int marketEffect = int.Parse(values[10]);
                 int regulation = int.Parse(values[11]);
-                int gasreq = int.Parse(values[13]);
-                string optionDescription = values[12];
+                int gasreq = int.Parse(values[12]);
+                string optionDescription = values[13];
                 int EN = int.Parse(values[14]);
                 int RN = int.Parse(values[15]);
-                long_events[eventID - 1].options[n] = new Option(optionDescription, prEffect, legalEffect, researchEffect,
-                                                                            moneyPercentChange, prReq, legalReq, researchReq, doomCounter,
-                                                                            chance, marketEffect, regulation, optionDescription,EN,RN);
-                if (n == long_events[eventID - 1].Optionsnumber)
+                if (n != 1)
                 {
-                    n = 0;
+                    long_events[eventID - 1].options[n] = new Option(optionDescription, prEffect, legalEffect, researchEffect, moneyPercentChange, prReq, legalReq, researchReq, doomCounter, chance, marketEffect, regulation, optionDescription, EN, RN);
+                    n++;
                 }
-                n++;
             }
 
         }
@@ -75,10 +74,9 @@ public class EventMaintenance
                 var values = line.Split('\t');
                 int EventID = int.Parse(values[0]);
                 string type = values[1];
-                int options = int.Parse(values[2]);
-                string description = values[3];
+                string description = values[2];
                 //Debug.Log(description);
-                Event newEvent = new Event(EventID, type, description, options);
+                Event newEvent = new Event(EventID, type, description,3);
                 events.Add(newEvent);
             }
         }
@@ -92,6 +90,7 @@ public class EventMaintenance
             {
                 var line = reader.ReadLine();
                 var values = line.Split('\t');
+     
                 int eventID = int.Parse(values[0]);
                 int prEffect = int.Parse(values[1]);
                 int legalEffect = int.Parse(values[2]);
@@ -104,10 +103,9 @@ public class EventMaintenance
                 double chance = double.Parse(values[9]);
                 int marketEffect = int.Parse(values[10]);
                 int regulation = int.Parse(values[11]);
-                int gasreq = int.Parse(values[13]);
                 string optionDescription = values[12];
-                int EN = int.Parse(values[14]);
-                int RN = int.Parse(values[15]);
+                int EN = int.Parse(values[13]);
+                int RN = int.Parse(values[14]);
 
                 events[eventID - 1].options[count] = new Option(optionDescription, prEffect, legalEffect, researchEffect,
                                                                             moneyPercentChange, prReq, legalReq, researchReq, doomCounter,
@@ -145,6 +143,7 @@ public class EventMaintenance
     }
     public Event getEvent()
     {
+        return GetLongEvent("Environment");
         Player curPlayer = MasterControl.control.currGame.players1[MasterControl.control.currGame.currentPlayer].GetComponent<Player>();
         foreach (var Event in events){
             if (Random.value < Event.probability){
@@ -205,6 +204,7 @@ public class EventMaintenance
                 }
             }
         }
+        Debug.Log("Event Not Shown This Turn");
         return null;
     }
 

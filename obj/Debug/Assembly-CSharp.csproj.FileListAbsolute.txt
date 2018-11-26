@@ -1,21 +1,273 @@
-C:\Users\Kantapon\Documents\Fracking\Frack - Feb 2016 build\Temp\bin\Debug\Assembly-CSharp.dll
-C:\Users\Kantapon\Documents\Fracking\Frack - Feb 2016 build\Temp\bin\Debug\Assembly-CSharp.pdb
-C:\Users\Kantapon\Documents\Fracking\Frack - Feb 2016 build\Temp\bin\Debug\UnityEditor.dll
-C:\Users\Kantapon\Documents\Fracking\Frack - Feb 2016 build\Temp\bin\Debug\UnityEngine.dll
-C:\Users\Kantapon\Documents\Fracking\Frack - Feb 2016 build\Temp\bin\Debug\UnityEngine.Networking.dll
-C:\Users\Kantapon\Documents\Fracking\Frack - Feb 2016 build\Temp\bin\Debug\UnityEngine.UI.dll
-C:\Users\Kantapon\Documents\Fracking\Frack - Feb 2016 build\Temp\bin\Debug\Mono.Cecil.dll
-C:\Users\Kantapon\Documents\Fracking\Frack - Feb 2016 build\Temp\bin\Debug\Unity.SerializationLogic.dll
-C:\Users\Kantapon\Documents\Fracking\Frack - Feb 2016 build\Temp\bin\Debug\Unity.DataContract.dll
-C:\Users\Kantapon\Documents\Fracking\Frack - Feb 2016 build\Temp\bin\Debug\ICSharpCode.NRefactory.dll
-C:\Users\Kantapon\Documents\Fracking\Frack - Feb 2016 build\Temp\bin\Debug\Unity.UNetWeaver.dll
-C:\Users\Kantapon\Documents\Fracking\Frack - Feb 2016 build\Temp\bin\Debug\Unity.CecilTools.dll
-C:\Users\Kantapon\Documents\Fracking\Frack - Feb 2016 build\Temp\bin\Debug\Mono.Cecil.Pdb.dll
-C:\Users\Kantapon\Documents\Fracking\Frack - Feb 2016 build\Temp\bin\Debug\Mono.Cecil.Mdb.dll
-C:\Users\Kantapon\Documents\Fracking\Frack - Feb 2016 build\Temp\bin\Debug\UnityEngine.xml
-C:\Users\Kantapon\Documents\Fracking\Frack - Feb 2016 build\Temp\bin\Debug\UnityEditor.xml
-C:\Users\Kantapon\Documents\Fracking\Frack - Feb 2016 build\Temp\bin\Debug\UnityEngine.UI.xml
-C:\Users\Kantapon\Documents\Fracking\Frack - Feb 2016 build\Temp\bin\Debug\UnityEngine.Networking.xml
-C:\Users\Kantapon\Documents\Fracking\Frack - Feb 2016 build\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
-C:\Users\Kantapon\Documents\Fracking\Frack - Feb 2016 build\obj\Debug\Assembly-CSharp.dll
-C:\Users\Kantapon\Documents\Fracking\Frack - Feb 2016 build\obj\Debug\Assembly-CSharp.pdb
+C:/Users/Kantapon/Documents/Fracking/Frack - Feb 2016 build/Temp/bin/Debug/Assembly-CSharp.dll
+C:/Users/Kantapon/Documents/Fracking/Frack - Feb 2016 build/Temp/bin/Debug/Assembly-CSharp.pdb
+C:/Users/Kantapon/Documents/Fracking/Frack - Feb 2016 build/Temp/bin/Debug/UnityEditor.dll
+C:/Users/Kantapon/Documents/Fracking/Frack - Feb 2016 build/Temp/bin/Debug/UnityEngine.dll
+C:/Users/Kantapon/Documents/Fracking/Frack - Feb 2016 build/Temp/bin/Debug/UnityEngine.Networking.dll
+C:/Users/Kantapon/Documents/Fracking/Frack - Feb 2016 build/Temp/bin/Debug/UnityEngine.UI.dll
+C:/Users/Kantapon/Documents/Fracking/Frack - Feb 2016 build/Temp/bin/Debug/Mono.Cecil.dll
+C:/Users/Kantapon/Documents/Fracking/Frack - Feb 2016 build/Temp/bin/Debug/Unity.SerializationLogic.dll
+C:/Users/Kantapon/Documents/Fracking/Frack - Feb 2016 build/Temp/bin/Debug/Unity.DataContract.dll
+C:/Users/Kantapon/Documents/Fracking/Frack - Feb 2016 build/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+C:/Users/Kantapon/Documents/Fracking/Frack - Feb 2016 build/Temp/bin/Debug/Unity.UNetWeaver.dll
+C:/Users/Kantapon/Documents/Fracking/Frack - Feb 2016 build/Temp/bin/Debug/Unity.CecilTools.dll
+C:/Users/Kantapon/Documents/Fracking/Frack - Feb 2016 build/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+C:/Users/Kantapon/Documents/Fracking/Frack - Feb 2016 build/Temp/bin/Debug/Mono.Cecil.Mdb.dll
+C:/Users/Kantapon/Documents/Fracking/Frack - Feb 2016 build/Temp/bin/Debug/UnityEngine.xml
+C:/Users/Kantapon/Documents/Fracking/Frack - Feb 2016 build/Temp/bin/Debug/UnityEditor.xml
+C:/Users/Kantapon/Documents/Fracking/Frack - Feb 2016 build/Temp/bin/Debug/UnityEngine.UI.xml
+C:/Users/Kantapon/Documents/Fracking/Frack - Feb 2016 build/Temp/bin/Debug/UnityEngine.Networking.xml
+C:/Users/Kantapon/Documents/Fracking/Frack - Feb 2016 build/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:/Users/Kantapon/Documents/Fracking/Frack - Feb 2016 build/obj/Debug/Assembly-CSharp.dll
+C:/Users/Kantapon/Documents/Fracking/Frack - Feb 2016 build/obj/Debug/Assembly-CSharp.pdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Assembly-CSharp.pdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Boo.Lang.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Facebook.Unity.Settings.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/mscorlib.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/System.Core.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/System.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/System.Xml.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Unity.Locator.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Unity.TextMeshPro.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEditor.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEditor.StandardEvents.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityScript.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityScript.Lang.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Unity.Cecil.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Unity.DataContract.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Unity.IvyParser.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Mono.Security.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEditor.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEditor.StandardEvents.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Unity.TextMeshPro.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.BaselibModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.FacebookModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.LocalizationModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ProfilerModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.SpatialTrackingModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.StreamingModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.TimelineModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Unity.Locator.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.HoloLens.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.HoloLens.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.Analytics.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/UnityEngine.StandardEvents.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/Temp/bin/Debug/Unity.IvyParser.dll.mdb
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/obj/Debug/Assembly-CSharp.csproj.CopyComplete
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/obj/Debug/Assembly-CSharp.dll
+/Users/rahsok28/Documents/Frack-Roshan-Ashok/obj/Debug/Assembly-CSharp.pdb

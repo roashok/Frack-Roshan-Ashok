@@ -7,7 +7,7 @@ public class Event
 {
     public Option[] options;
     public string Event_description;
-    public int Optionsnumber;
+    public int Optionsnumber = 3;
     public string type;
     public int ID;
     public float probability;
